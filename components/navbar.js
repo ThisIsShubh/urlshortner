@@ -73,7 +73,7 @@ export default function Navbar() {
           <div className="hidden md:block">
             <div className="ml-4 flex items-center space-x-4">
               <Link
-                href="/login"
+                href="https://github.com/ThisIsShubh/urlshortner"
                 className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
               >
                 Github
