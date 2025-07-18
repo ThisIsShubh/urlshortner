@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Navbar from '../../components/navbar';
 
 
-function page() {
+function GeneratePage() {
   const [url, setUrl] = useState("");
   const [shortUrl, setShortUrl] = useState("");
   const [shortenedUrl, setShortenedUrl] = useState("");
@@ -125,4 +125,4 @@ function page() {
   )
 }
 
-export default page
+export default GeneratePage

@@ -14,7 +14,7 @@ export default function About() {
               About <span className="text-blue-600">ShortURL</span>
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-              We're on a mission to make the web more connected and accessible 
+              We&apos;re on a mission to make the web more connected and accessible 
               through simple, powerful URL shortening technology.
             </p>
           </div>
@@ -99,7 +99,7 @@ export default function About() {
                   Our Vision
                 </h3>
                 <p className="text-gray-600 dark:text-gray-300">
-                  To become the world's most trusted URL shortening platform, 
+                  To become the world&apos;s most trusted URL shortening platform, 
                   enabling seamless digital communication while maintaining the 
                   highest standards of privacy and security.
                 </p>
