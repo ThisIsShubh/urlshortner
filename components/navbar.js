@@ -61,10 +61,10 @@ export default function Navbar() {
                 About
               </Link>
               <Link
-                href="/contact"
+                href="www.shubhux.space"
                 className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
               >
-                Contact Us
+                More on me
               </Link>
             </div>
           </div>
