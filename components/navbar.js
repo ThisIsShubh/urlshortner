@@ -61,7 +61,7 @@ export default function Navbar() {
                 About
               </Link>
               <Link
-                href="www.shubhux.space"
+                href="https://shubhux.space"
                 className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
               >
                 More on me
